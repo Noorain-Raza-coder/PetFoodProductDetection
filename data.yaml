@@ -1,0 +1,34 @@
+train: "C:\\Users\\ASUS VIVOBOOK 14\\Desktop\\ShelfEx\\PetFoodPackageDetection\\images\\train"
+val : "C:\\Users\\ASUS VIVOBOOK 14\\Desktop\\ShelfEx\\PetFoodPackageDetection\\images\\val"
+
+names:
+  0: 1lb Chicken Roll Freshpet
+  1: 1.5lb Chicken Roll Freshpet
+  2: 6lb Chicken Roll Freshpet
+  3: 1.5lb Beef Roll Freshpet
+  4: 6lb Beef Roll Freshpet
+  5: 1.5lb Multi Protein Roll Freshpet
+  6: 5lb Multi Protein Roll Freshpet
+  7: 1lb Small Dog Multi Protein Roll Freshpet
+  8: Freshpet Select Multi Protein Roll 680g
+  9: 1.5lb Grain Free Roll Freshpet
+  10: 5lb Grain Free Roll Freshpet
+  11: 1.5lb Turkey Roll Freshpet
+  12: 1lb Small Dog Chicken & Turkey Roll Freshpet
+  13: 1.75lb Multi-Protein Roasted Meals Freshpet
+  14: 3lb Multi-Protein Roasted Meals Freshpet
+  15: Dog Joy Chicken Treats Freshpet
+  16: Dog Joy Turkey Bacon 6oz Club
+  17: 1.75lb Fresh From Kitchen Freshpet
+  18: 4.5lb Fresh From Kitchen Freshpet
+  19: 1.75lb Roasted Meals Freshpet
+  20: 5.5lb Roasted Meals Freshpet
+  21: 1lb Small Dog Roasted Meals Freshpet
+  22: 2lb Small Dog Roasted Meals Freshpet
+  23: 5lb Large Dog Multi Protein Meals
+  24: 1.75lb Grain Free Roasted Meal Freshpet
+  25: Freshpet Select Fresh From the Kitchen 2.04 kg
+  26: Empty Space
+  27: Other Product
+path: .
+
